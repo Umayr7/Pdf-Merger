@@ -1,0 +1,14 @@
+C:\Users\umair\source\repos\basic\basic\bin\Debug\basic.exe.config
+C:\Users\umair\source\repos\basic\basic\bin\Debug\basic.exe
+C:\Users\umair\source\repos\basic\basic\bin\Debug\basic.pdb
+C:\Users\umair\source\repos\basic\basic\obj\Debug\basic.Properties.Resources.resources
+C:\Users\umair\source\repos\basic\basic\obj\Debug\basic.csproj.GenerateResource.cache
+C:\Users\umair\source\repos\basic\basic\obj\Debug\basic.csproj.CoreCompileInputs.cache
+C:\Users\umair\source\repos\basic\basic\obj\Debug\basic.exe
+C:\Users\umair\source\repos\basic\basic\obj\Debug\basic.pdb
+C:\Users\umair\source\repos\basic\basic\bin\Debug\itextsharp.dll
+C:\Users\umair\source\repos\basic\basic\bin\Debug\itextsharp.xml
+C:\Users\umair\source\repos\basic\basic\obj\Debug\basic.csproj.CopyComplete
+C:\Users\umair\source\repos\basic\basic\obj\Debug\basic.csprojAssemblyReference.cache
+C:\Users\umair\source\repos\basic\basic\obj\Debug\basic.landing_page.resources
+C:\Users\umair\source\repos\basic\basic\obj\Debug\basic.merge_page.resources
